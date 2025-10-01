@@ -1,11 +1,11 @@
-# Nguyễn Bảo Anh
+# Nguyễn Thị Kiều Anh
 
 ---
 
 ## Thông tin cá nhân
 - Sinh viên năm 2 ngành Công nghệ Đa phương tiện  
 - Học viện Công nghệ Bưu chính Viễn thông (PTIT), TP. Hồ Chí Minh  
-- Đam mê sáng tạo nội dung, dựng phim và thiết kế truyền thông  
+ 
 
 ---
 
@@ -17,14 +17,12 @@
 ---
 
 ## Học vấn
-- Hiện đang theo học chuyên ngành Công nghệ Đa phương tiện tại PTIT  
-- Dự định phát triển chuyên sâu về quay dựng phim, thiết kế truyền thông  
-- Hướng đến các vị trí: Assistant Director hoặc Producer tại studio sáng tạo  
+- Hiện đang theo học chuyên ngành Công nghệ Đa phương tiện tại PTIT   
+- Trung bình cộng GPA 4 kì gần đây nhất đạt loại giỏi >3.3
 
 ---
 
 ## Kỹ năng
-- Dựng phim, chỉnh sửa video (Premiere, After Effects)  
 - Thiết kế cơ bản (Photoshop, Illustrator)  
 - Kiến thức nền về web (HTML, CSS, JavaScript cơ bản)  
 - Kỹ năng làm việc nhóm và quản lý dự án nhỏ  
@@ -32,10 +30,13 @@
 ---
 
 ## Dự định tương lai
-- Xây dựng một bookstore & café kết hợp không gian đọc sách và sáng tạo nội dung    
+- Hướng đến các vị trí: Assistant Director hoặc Producer tại studio sáng tạo  
 - Học tập và phát triển để trở thành Producer trong ngành sáng tạo truyền thông  
-
 ---
+
+## Kinh nghiệm nghề nghiệp
+- **Tí Toáy** (2025 – nay): Hỗ trợ sản xuất nội dung, tham gia vào các dự án truyền thông sáng tạo.  
+- **DT studio** (2024): Làm việc trong vai trò sáng tạo các ấn phẩm truyền thông.
 
 ## Sở thích
 - Đọc sách  
