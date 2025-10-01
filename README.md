@@ -3,7 +3,7 @@
 ---
 
 ## Thông tin cá nhân
-- Sinh viên năm 2 ngành Công nghệ Đa phương tiện  
+- Sinh viên năm 3 ngành Công nghệ Đa phương tiện  
 - Học viện Công nghệ Bưu chính Viễn thông (PTIT), TP. Hồ Chí Minh  
  
 
