@@ -35,7 +35,7 @@
 ---
 
 ## Kinh nghiệm nghề nghiệp
-- **Tí Toáy** (2025 – nay): Hỗ trợ sản xuất nội dung, tham gia vào các dự án truyền thông sáng tạo.  
+- **Tí Toáy** (2025): Hỗ trợ sản xuất nội dung, tham gia vào các dự án truyền thông sáng tạo.  
 - **DT studio** (2024): Làm việc trong vai trò sáng tạo các ấn phẩm truyền thông.
 
 ## Sở thích
