@@ -3,14 +3,14 @@
     <td width="25%" align="center">
       <img src="avatar.png" alt="Ảnh cá nhân" style="border-radius:50%;"/>
     </td>
-    <td width="75%"style="border:none;">
+    <td width="75%"  style="border:none;">
+<h1 style="color:#e63946">Welcome to my profile</h1>
       
 ### 👩‍🎓 Thông tin cá nhân  
 - 🎓 Sinh viên năm 3 ngành **Công nghệ Đa phương tiện**  
 - 🏫 Học viện Công nghệ Bưu chính Viễn thông (PTIT), TP. Hồ Chí Minh  
 - 📊 GPA trung bình 4 kỳ gần nhất: **>3.3 (Loại giỏi)**  
-
-    </td>
+  </td>
   </tr>
 </table>
 ---
