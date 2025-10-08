@@ -1,7 +1,7 @@
 <table style="border:none;">
   <tr style="border:none;">
     <td width="25%" align="center">
-      <img src="https://via.placeholder.com/200" alt="Ảnh cá nhân" style="border-radius:50%;"/>
+      <img src="avatar.png" alt="Ảnh cá nhân" style="border-radius:50%;"/>
     </td>
     <td width="75%"style="border:none;">
       
