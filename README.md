@@ -27,6 +27,20 @@
 - 📊 GPA trung bình 4 kỳ gần nhất: **>3.3 (Loại giỏi)**  
 
 ---
+## Dự án đã thực hiện  
+
+- MV Ngắn - Say You Do (2025)  
+  - Vai trò: Quay dựng, dựng phim cho môn học Dựng phim  
+  - Công cụ: Premiere Pro, After Effects  
+
+- Website Bán Sách (2024)  
+  - Website cá nhân bán sách, có phân loại theo chủ đề, lọc theo giá  
+  - Công cụ: HTML, CSS, JavaScript, VS Code  
+
+- Poster & Thiết kế ấn phẩm (2024)  
+  - Các poster truyền thông cho sự kiện sinh viên  
+  - Công cụ: Photoshop, Illustrator  
+
 
 ## 🛠️ Công cụ thành thạo  
 
